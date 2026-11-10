@@ -8,3 +8,16 @@ Goal: Become a skilled software developer
 
 - **ElectroMart – Electronics Shopping Portal:** A web application that allows customers to browse, compare, and purchase electronic products online.
 - **Noise Guard – Smart Urban Noise Monitoring System:** A project designed to monitor urban noise levels and provide alerts.
+## Collaboration Log
+
+- Partner: [Samruddi G] (samruddi-21)
+- Work completed: Added a greet() function to the Hello World program.
+- Learning: GitLens helps identify who last changed a particular line of code and displays the related commit history.
+## Collaboration Log
+
+- Collaboration tool: Visual Studio Code Live Share.
+- Host: Personal VS Code window.
+- Guest: Second VS Code window.
+- Work completed: Tested real-time code sharing and editing.
+- Learning: Live Share allows developers to view and edit the same code in real time.
+- Note: The session was tested independently using two VS Code windows.
