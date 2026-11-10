@@ -4,3 +4,7 @@ Hello! My name is Sahana. I am pursuing B.Tech in Computer Science and Engineeri
 Learning C and Java programming
 Interested in web development and technology
 Goal: Become a skilled software developer
+## Projects
+
+- **ElectroMart – Electronics Shopping Portal:** A web application that allows customers to browse, compare, and purchase electronic products online.
+- **Noise Guard – Smart Urban Noise Monitoring System:** A project designed to monitor urban noise levels and provide alerts.
